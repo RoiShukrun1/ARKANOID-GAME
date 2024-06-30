@@ -8,6 +8,12 @@ This is an implementation of the classic Arkanoid game, developed using Object-O
 - Power-Ups: Collect power-ups to enhance gameplay.
 - Score Tracking: Keep track of your high scores.
 
+## Installation
+- Clone the repository: https://github.com/RoiShukrun1/BIU-OOP-ARKANOID-GAME.git
+- Navigate to the project directory
+- Compile the Java files
+- Run the game: java src.Ass6
+
 ## Controls
 - Left Arrow Key: Move the paddle to the left.
 - Right Arrow Key: Move the paddle to the right.
