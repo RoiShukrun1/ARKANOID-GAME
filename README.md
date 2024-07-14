@@ -1,4 +1,4 @@
-# BIU-OOP-ARKANOID-GAME
+# ARKANOID-GAME
 ## Overview
 This is an implementation of the classic Arkanoid game, developed using Object-Oriented Programming principles in Java. The game features a paddle, a ball, and multiple bricks, providing an engaging and challenging gameplay experience.
 
